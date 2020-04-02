@@ -1,4 +1,4 @@
-# Quarentena coding - setmana del 30 de març
+# Quarentena coding - setmana del 30 / 03
 
 ## Cercant a Wally
 ![](https://pbs.twimg.com/media/ETo8MQjX0AIOWXJ.jpg)
